@@ -1,8 +1,6 @@
-# grunt-rust [![Build Status](https://TBD.svg?branch=master)](https://travis-ci.org/TBD)
+# grunt-rust [![Build Status](https://travis-ci.org/gabeharms/grunt-rust.svg)](https://travis-ci.org/gabeharms/grunt-rust)
 
 > Test, Build, and Run your Rust App 
-
-*Issues with the output should be reported on the Babel [issue tracker](https://phabricator.babeljs.io).*
 
 
 ## Prerequisites
