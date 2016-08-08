@@ -4,8 +4,10 @@
 
 
 ## Prerequisites
-1.) Rust & Cargo installed
+1.) Rust & Cargo installed*
+
 2.) `Cargo.toml` file in same directory as `Gruntfile.js`
+
 3.) Valid rust file to build (i.e. `src/main.rs`) 
 
 
