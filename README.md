@@ -21,6 +21,8 @@ $ npm install --save-dev grunt-rust
 ## Usage
 
 ```js
+grunt.loadNpmTasks('grunt-rust');
+
 grunt.initConfig({
   rust: {
     test: {},
