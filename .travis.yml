@@ -1,5 +1,9 @@
 sudo: false
 language: node_js
+rust:
+  - stable
+  - beta
+  - nightly
 node_js:
   - "node"
   - 'iojs'
