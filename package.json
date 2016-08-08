@@ -1,6 +1,6 @@
 {
   "name": "grunt-rust",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Gabe Harms",
   "description": "Allows rust applications to be tested, built, and or run",
