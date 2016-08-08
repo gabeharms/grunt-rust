@@ -1,0 +1,4 @@
+[package]
+name = "grunt-rust-test"
+version = "1.0.0"
+authors = ["Gabe Harms <gabeharms@gmail.com>"]
